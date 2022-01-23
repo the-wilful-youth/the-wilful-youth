@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anurag
 - 👀 An Indian
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming and am part of Discord Moderator Ecosystem
 - 📫 How to reach me :- 
 
 Facebook: Anurag Bhowmick
