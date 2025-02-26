@@ -5,24 +5,6 @@
 
 ---
 
-<h1>🌐 Connect with Me</h1>
-<p>
-  <a href="https://www.linkedin.com/in/anuragbhowmick/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="Linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/the_wilful_youth/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Instagram logo" />
-  </a>
-  <a href="https://discord.gg/ajqnqjPf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord logo" />
-  </a>
-  <a href="mailto:anuragbhowmick1711@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Gmail logo" />
-  </a>
-</p>
-
----
-
 <h1>💻 Tech Stack</h1>
 
 <p>
@@ -87,6 +69,26 @@
 
 ---
 
+<h1>🌐 Connect with Me</h1>
 <p>
-  <img src="https://raw.githubusercontent.com/the-wilful-youth/the-wilful-youth/output/snake.svg" alt="Snake animation" />
+  <a href="https://www.linkedin.com/in/anuragbhowmick/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="Linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/the_wilful_youth/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Instagram logo" />
+  </a>
+  <a href="https://discord.gg/ajqnqjPf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord logo" />
+  </a>
+  <a href="mailto:anuragbhowmick1711@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Gmail logo" />
+  </a>
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-wilful-youth/the-wilful-youth/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-wilful-youth/the-wilful-youth/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tthe-wilful-youth/the-wilful-youth/output/github-snake.svg" />
+</picture>
