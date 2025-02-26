@@ -56,6 +56,7 @@ Currently studying
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="14" />
+  
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
