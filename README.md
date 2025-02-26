@@ -42,6 +42,11 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="Adobe Photoshop" />
+  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="Adobe After Effects" />
+  <img src="https://skillicons.dev/icons?i=au" height="50"alt="Adobe Audition" />
+  <img src="https://skillicons.dev/icons?i=pr" height="50"alt="Adobe Premiere Pro" />
 </p>
 
 ---
