@@ -1,68 +1,49 @@
-# 💫 About Me
+<h1 align="center">💫 About Me</h1>
 
-## 🚀 Passionate about technology and continuous learning.
-
-## 🎓 Currently Studying and exploring the latest innovations.
+- 🚀 Passionate about technology and continuous learning.
+- 🎓 Currently studying and exploring the latest innovations.
 
 ---
 
-# 🌐 Connect with Me
-
+<h1 align="center">🌐 Connect with Me</h1>
+<p align="center">
   <a href="https://www.linkedin.com/in/anuragbhowmick/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="Linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="Linkedin logo" />
   </a>
   <a href="https://www.instagram.com/the_wilful_youth/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="Instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Instagram logo" />
   </a>
   <a href="https://discord.gg/ajqnqjPf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="Discord logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord logo" />
   </a>
   <a href="mailto:anuragbhowmick1711@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="Gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Gmail logo" />
   </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+<h1 align="center">💻 Tech Stack</h1>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="margin: 15px;" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="margin: 15px;" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" style="margin: 15px;" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" style="margin: 15px;" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" style="margin: 15px;" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin: 15px;" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="margin: 15px;" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin: 15px;" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" style="margin: 15px;" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" style="margin: 15px;" alt="Google Cloud" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin: 15px;" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" style="margin: 15px;" alt="Azure" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="50" style="margin: 15px;" alt="Heroku" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" style="margin: 15px;" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="50" style="margin: 15px;" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" style="margin: 15px;" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" style="margin: 15px;" alt="Canva" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" style="margin: 15px;" alt="Adobe Photoshop" />
-  <img src="https://skillicons.dev/icons?i=ae" height="50" style="margin: 15px;" alt="Adobe After Effects" />
-  <img src="https://skillicons.dev/icons?i=au" height="50" style="margin: 15px;" alt="Adobe Audition" />
-  <img src="https://skillicons.dev/icons?i=pr" height="50" style="margin: 15px;" alt="Adobe Premiere Pro" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,csharp,javascript,typescript,mysql,sqlite,gcp,mongodb,azure,heroku,github,githubactions,figma,canva,ps,ae,au,pr" height="50" alt="Tech Stack" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=the-wilful-youth&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-wilful-youth&theme=cobalt&hide_border=false" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-wilful-youth&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+<h1 align="center">🏆 GitHub Trophies</h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=the-wilful-youth&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -70,7 +51,7 @@
 
 ---
 
-# ✍️ Random Dev Quote
+<h1 align="center">✍️ Random Dev Quote</h1>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -78,8 +59,9 @@
 
 ---
 
-# 👀 Profile Views
+<h1 align="center">👀 Profile Views</h1>
 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=the-wilful-youth&label=Profile%20Views&color=blue&style=flat" alt="Profile Views Counter" />
 </p>
 
