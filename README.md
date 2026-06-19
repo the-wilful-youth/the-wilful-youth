@@ -191,4 +191,3 @@ const Anurag: Developer = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
 
 </div>
-```
