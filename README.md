@@ -8,30 +8,37 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=the-wilful-youth&style=flat-square&color=302b63&label=profile+views"/>
+<img src="https://komarev.com/ghpvc/?username=the-wilful-youth&style=flat-square&color=302b63&label=Profile+Views"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <code>software</code> &nbsp;·&nbsp; <code>ai</code> &nbsp;·&nbsp; <code>systems</code> &nbsp;·&nbsp; <code>design</code>
+  <code>Software</code> &nbsp;·&nbsp; <code>AI</code> &nbsp;·&nbsp; <code>Systems</code> &nbsp;·&nbsp; <code>Design</code>
 </div>
 
 <br/>
 
 ---
 
-## `~/about`
+## `~/About`
 
 ```ts
-const anurag: Developer = {
-  pronouns: "he/him",
-  learning: ["ai", "modern systems", "distributed infra"],
-  building: "things that make people go  'wait, how did you do that?'",
+const Anurag: Developer = {
+  status: "Online",
+  pronouns: "He/Him",
+  role: "Computer Science Student",
+  exploring: [
+    "artificial intelligence",
+    "machine learning",
+    "modern systems",
+    "full stack development",
+  ],
+  building: "things that make people go 'wait, How did you do that?'",
   tools: "whatever gets the job done",
-  mindset: "learn  →  build  →  ship  →  repeat",
-  currently: "student mode  📖  with side quests  🚀",
+  mindset: "learn → build → ship → improve → repeat",
+  currently: ["building things", "learning continuously", "trying new ideas"],
 };
 ```
 
@@ -39,23 +46,23 @@ const anurag: Developer = {
 
 ---
 
-## `~/stack`
+## `~/Stack`
 
 <div align="center">
 
-**languages**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,cs&theme=dark"/>
 
 <br/><br/>
 
-**web & backend**
+**Web & Backend**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css&theme=dark"/>
 
 <br/><br/>
 
-**data & ai**
+**Data & AI**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 &nbsp;&nbsp;
@@ -63,19 +70,19 @@ const anurag: Developer = {
 
 <br/><br/>
 
-**databases**
+**Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark"/>
 
 <br/><br/>
 
-**cloud & tools**
+**Cloud & Tools**
 
 <img src="https://skillicons.dev/icons?i=gcp,azure,heroku,github,githubactions,figma&theme=dark"/>
 
 <br/><br/>
 
-**creative**
+**Creative**
 
 <img src="https://skillicons.dev/icons?i=ps,ae,pr,au&theme=dark"/>
 &nbsp;&nbsp;
@@ -87,7 +94,7 @@ const anurag: Developer = {
 
 ---
 
-## `~/stats`
+## `~/Stats`
 
 <div align="center">
 
@@ -105,7 +112,7 @@ const anurag: Developer = {
 
 ---
 
-## `~/trophies`
+## `~/Trophies`
 
 <div align="center">
 
@@ -117,7 +124,7 @@ const anurag: Developer = {
 
 ---
 
-## `~/activity`
+## `~/Activity`
 
 <div align="center">
 
@@ -129,7 +136,7 @@ const anurag: Developer = {
 
 ---
 
-## `~/quote`
+## `~/Quote`
 
 <div align="center">
 
@@ -141,7 +148,7 @@ const anurag: Developer = {
 
 ---
 
-## `~/connect`
+## `~/Connect`
 
 <div align="center">
 
@@ -184,3 +191,4 @@ const anurag: Developer = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
 
 </div>
+```
