@@ -1,94 +1,110 @@
-<h1>💫 About Me</h1>
 
-- 🚀 Passionate about technology and continuous learning.
-- 🎓 Currently studying and exploring the latest innovations.
+<div align="center">
 
----
+<br>
 
-<h1>💻 Tech Stack</h1>
+![status](https://img.shields.io/badge/%E2%97%8F%20available%20for%20opportunities-534AB7?style=flat-square&labelColor=EEEDFE&color=534AB7)
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="50" alt="Heroku" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="Adobe Photoshop" />
-  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="Adobe After Effects" />
-  <img src="https://skillicons.dev/icons?i=au" height="50"alt="Adobe Audition" />
-  <img src="https://skillicons.dev/icons?i=pr" height="50"alt="Adobe Premiere Pro" />
-</p>
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=800&size=48&duration=1&pause=999999&color=2C2C2A&center=true&vCenter=true&width=600&lines=Anurag+Bhowmick" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=12&duration=1&pause=999999&color=888780&center=true&vCenter=true&width=600&lines=COMPETITIVE+PROGRAMMER+%C2%B7+AI%2FML+EXPLORER+%C2%B7+BUILDER" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=520&lines=Building+Scalable+ML+Systems;2+Research+Papers+%40+IEEE;Shipping+Products+Every+Day"/>
+
+<br>
+
+![](https://img.shields.io/badge/Graphic%20Era%20University-1a1a1a?style=flat-square)
+![](https://img.shields.io/badge/B.Tech%20CSE%20·%20Y3-534AB7?style=flat-square&labelColor=EEEDFE&color=534AB7)
+![](https://img.shields.io/badge/IEEE%20Researcher-534AB7?style=flat-square&labelColor=EEEDFE&color=534AB7)
+![](https://img.shields.io/badge/NPTEL%20·%20IIT%20Kharagpur-534AB7?style=flat-square&labelColor=EEEDFE&color=534AB7)
+<img src="https://komarev.com/ghpvc/?username=the-wilful-youth&style=flat-square&color=534AB7&label=profile+views"/>
+
+</div>
 
 ---
 
-<h1>📊 GitHub Stats</h1>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=the-wilful-youth&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-wilful-youth&theme=cobalt&hide_border=false" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-wilful-youth&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+// about me · 2026
+const anurag = {
+  passion: "building products that matter",
+  focus:   ["AI/ML", "Dev", "Design"],
+  papers:  "2x IEEE · under review",
+  status:  "shipping continuously ⚡"
+}
 
----
 
-<h1>🏆 GitHub Trophies</h1>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=the-wilful-youth&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+`technology & innovation` &nbsp; `AI · ML research` &nbsp; `competitive programming` &nbsp; `design systems` &nbsp; `always learning`
 
 ---
 
-<h1>✍️ Random Dev Quote</h1>
 
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+// tech stack
 
----
 
-<h1>👀 Profile Views</h1>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=the-wilful-youth&label=Profile%20Views&color=blue&style=flat" alt="Profile Views Counter" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,ts,mongodb,mysql,sqlite,gcp,azure,github,githubactions,figma,ps,ae,pr&perline=9"/>
+</div>
 
 ---
 
-<h1>🌐 Connect with Me</h1>
-<p>
-  <a href="https://www.linkedin.com/in/anuragbhowmick/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="Linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/the_wilful_youth/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Instagram logo" />
-  </a>
-  <a href="https://discord.gg/ajqnqjPf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord logo" />
-  </a>
-  <a href="mailto:anuragbhowmick1711@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Gmail logo" />
-  </a>
-</p>
+
+// github analytics
+
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=the-wilful-youth&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=534AB7&icon_color=534AB7&text_color=888780"/>
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-wilful-youth&layout=compact&theme=transparent&hide_border=true&title_color=534AB7&text_color=888780"/>
+
+<br><br>
+
+<img width="680" src="https://github-readme-streak-stats.herokuapp.com/?user=the-wilful-youth&theme=transparent&hide_border=true&ring=534AB7&fire=534AB7&currStreakLabel=534AB7&sideLabels=888780&dates=888780"/>
+
+</div>
 
 ---
 
+
+// achievements
+
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=the-wilful-youth&theme=algolia&no-frame=true&column=4&margin-w=10"/>
+</div>
+
+---
+
+
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"/>
+</div>
+
+---
+
+
+<div align="center">
+
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|:---:|:---:|:---:|:---:|
+| [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anuragbhowmick/) | [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:anuragbhowmick1711@gmail.com) | [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/the_wilful_youth/) | [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/ajqnqjPf) |
+| `linkedin` | `email` | `instagram` | `discord` |
+
+</div>
+
+---
+
+
+
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-wilful-youth/the-wilful-youth/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-wilful-youth/the-wilful-youth/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tthe-wilful-youth/the-wilful-youth/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/the-wilful-youth/the-wilful-youth/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/the-wilful-youth/the-wilful-youth/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/the-wilful-youth/the-wilful-youth/output/github-snake.svg"/>
 </picture>
+</div>
